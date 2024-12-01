@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "DM Sans";
+  font-size: 18px;
+  font-weight: 500;
+}
+
+#header-card,
+#growth-rate-card {
+  background-color: hsl(256, 67%, 59%);
+}
+
+#management-card,
+#audience-card {
+  background-color: hsl(0, 0%, 100%);
+}
+
+#posting-card,
+#ai-assist-card {
+  background-color: hsl(39, 100%, 71%);
+}
+
+#schedule-card {
+  background-color: hsl(254, 88%, 90%);
+}
+
+#create-post-card {
+  background-color: hsl(31, 66%, 93%);
+}
+
+.container {
+  margin: auto;
+  width: 345px;
+}
+.container section img {
+  width: 100%;
+}

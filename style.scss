@@ -1,0 +1,57 @@
+// Font
+$root-font-family: "DM Sans";
+$root-font-size: 18px;
+$root-normal-font-weight: 400;
+$root-bold-font-weight: 500;
+
+// Color
+$light-purple: hsl(254, 88%, 90%);
+$dark-purple: hsl(256, 67%, 59%);
+$light-yellow: hsl(31, 66%, 93%);
+$dark-yellow: hsl(39, 100%, 71%);
+$white: hsl(0, 0%, 100%);
+$black: hsl(0, 0%, 7%);
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: $root-font-family;
+  font-size: $root-font-size;
+  font-weight: $root-bold-font-weight;
+}
+
+#header-card,
+#growth-rate-card {
+  background-color: $dark-purple;
+}
+
+#management-card,
+#audience-card {
+  background-color: $white;
+}
+
+#posting-card,
+#ai-assist-card {
+  background-color: $dark-yellow;
+}
+
+#schedule-card {
+  background-color: $light-purple;
+}
+
+#create-post-card {
+  background-color: $light-yellow;
+}
+
+.container {
+  margin: auto;
+  width: 345px;
+
+  section img {
+    width: 100%;
+  }
+
+  
+}
+
