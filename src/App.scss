@@ -217,11 +217,8 @@ main {
   main {
     width: 1120px;
     height: 880px;
-
-    position: absolute;
-    top: 51%;
-    left: 50%;
-    translate: -50% -50%;
+    margin: 0 auto;
+    padding: 82px 0 65px 0;
 
     .card-container,
     .card-packed {
