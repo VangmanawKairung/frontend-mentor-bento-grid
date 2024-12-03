@@ -32,16 +32,16 @@ Users should be able to:
 
 #### Mobile view
 
-![](./sources/screenshots/Mobile%20view.png)
+![](./src/assets/screenshot/Mobile%20view.png)
 
 #### Desktop view
 
-![](./sources/screenshots/Desktop%20view.png)
+![](./src/assets/screenshot/Desktop%20view.png)
 
 ### Links
 
-- Solution URL: [Bento grid with HTML5 and Sass Css (SCSS)](https://www.frontendmentor.io/solutions/bento-grid-with-html5-and-sass-css-scss-5XA2MOBhJo)
-- Live Site URL: [Frontend Mentor | Bento grid](https://vangmanawkairung.github.io/Frontend-Mentor_Bento-grid/)
+- Solution URL: [Bento grid by React and CSS](https://www.frontendmentor.io/solutions/bento-grid-by-react-and-css-QGfgS8SDKu)
+- Live Site URL: [Frontend Mentor | Bento grid](https://vangmanawkairung.github.io/Frontend-Mentor_bento-grid/)
 
 ## My process
 
@@ -54,10 +54,10 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - Responsive Design
-- Lazy loading
 - Typography (Google Font)
 - Accessibility Features
 - SCSS features
+- [React](https://reactjs.org/) - JS library
 
 ### What I learned
 
@@ -79,4 +79,4 @@ I plan to explore advanced SCSS features, improve animations and transitions for
 
 ## Acknowledgments
 
-A big thank you to Frontend Mentor for the engaging challenge, and to VSCode for providing a smooth coding experience. I also appreciate Google Chrome's developer tools for debugging and the Preview app on Mac for easy live viewing. Lastly, thanks to all the resources and tutorials that helped me along the way.
+A huge thanks to Frontend Mentor for the enjoyable challenge and to VSCode for offering a seamless coding experience. I’m also grateful for Google Chrome's developer tools for their debugging capabilities and the Preview app on Mac for easy live viewing. Finally, I appreciate all the resources and tutorials that supported me throughout this journey.
